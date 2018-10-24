@@ -1,3 +1,4 @@
 baseUrl = "spencerbateman.github.io/space-jam"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "jam"
