@@ -1,4 +1,3 @@
-baseURL = "http://example.org/"
+baseUrl = "spencerbateman.github.io/space-jam"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "minimal-bootstrap-hugo-theme"
